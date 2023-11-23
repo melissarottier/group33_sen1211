@@ -1,5 +1,5 @@
 # group33_sen1211
-
-=======
+<<<<<<<<< Temporary merge branch 1
 Hallo allemaal dit is een test voor github
-Ik vind dit echt zaad
+=========
+>>>>>>>>> Temporary merge branch 2
