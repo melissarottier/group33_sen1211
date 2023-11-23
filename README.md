@@ -3,3 +3,4 @@
 Hallo allemaal dit is een test voor github
 =========
 >>>>>>>>> Temporary merge branch 2
+Zaaahhhaaadddd
